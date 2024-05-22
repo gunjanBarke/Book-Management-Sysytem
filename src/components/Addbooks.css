@@ -1,0 +1,35 @@
+.form-container{
+    height: 12vh;
+    width: 80vw;
+
+    margin-top: 25px;
+    margin-bottom: 15px;
+
+}
+
+.form-div{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lavenderblush;
+}
+.input-field{
+    height: 25%;
+    width: 14%;
+}
+
+
+
+#add-btn{
+    height: 40%;
+    width: 5%;
+    background-color: blue;
+    color: white;
+    padding: 2px;
+    font-size: 1.1rem;
+    border: 0px;
+    border-radius: 8%;
+}

@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "ikigai",
+      "author": "Mr. hector",
+      "price": 340
+    },
+    {
+      "id": "2",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 500
+    },
+    {
+      "id": "3",
+      "title": "Clear Thinking",
+      "author": "shane Parrish",
+      "price": 600
+    },
+    {
+      "id": "4",
+      "title": "Same As Ever",
+      "author": "Morgan Housel",
+      "price": 330
+    },
+    {
+      "id": "5",
+      "title": "Wings of Fire",
+      "author": "Abdul kalam",
+      "price": 700
+    },
+    {
+      "id": "6",
+      "title": "Atomic Habit",
+      "author": "james",
+      "price": 400
+    },
+    {
+      "id": "7",
+      "title": "The broken wing",
+      "author": "sarojini naidu",
+      "price": 500
+    }
+  ]
+}
